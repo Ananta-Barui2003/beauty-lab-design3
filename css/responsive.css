@@ -1,0 +1,334 @@
+/* =========================1024px start======================= */
+@media only screen and (max-width: 1024px) {
+    .header .navbar .collapse .navbar-nav .nav-item {
+        padding-right: 20px;
+    }
+    .header .navbar .collapse .navbar-nav .nav-item a {
+        font-size: 14px;
+    }
+    .baner .baner_img1, .baner .baner_img2, .baner .baner_img3, .baner .baner_img4, .baner .baner_img5 {
+        padding: 270px 0;
+    }
+/* =========================1024px end======================= */    
+}
+
+/* =========================991px start======================= */
+@media only screen and (max-width: 991px) {
+    .baner .baner_img1, .baner .baner_img2, .baner .baner_img3, .baner .baner_img4, .baner .baner_img5 {
+        padding: 130px 0;
+    }
+    .baner .baner_cont h3 {
+        font-size: 26px;
+        line-height: 1.2;
+        margin-bottom: 10px;
+    }
+    .baner .baner_cont h2 {
+        font-size: 52px;
+        line-height: 1.2;
+        margin-bottom: 15px;
+    }
+    .baner .baner_cont h5 {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .detali {
+        margin: 45px 0;
+    }
+    .detali .titel {
+        margin-bottom: 25px;
+    }
+    .booking {
+        padding: 50px 0;
+    }
+    .booking .titel {
+        margin-bottom: 30px;
+    }
+    .booking .titel h2 {
+        line-height: 1.2;
+        margin-bottom: 10px;
+    }
+    .service {
+        margin: 45px 0;
+    }
+    .service .titel h2 {
+        line-height: 1.2;
+        margin-bottom: 10px;
+    }
+    .gallery {
+        padding: 50px 0;
+    }
+    .gallery .titel {
+        padding-bottom: 30px;
+    }
+    .gallery .titel h2 {
+        line-height: 1.2;
+    }
+    .product {
+        margin: 45px 0;
+    }
+    .video {
+        padding: 130px 0;
+        margin-bottom: 45px;
+    }
+    .price_tab .price_titel {
+        margin-bottom: 30px;
+    }
+    .price_tab .tab {
+        row-gap: 10px;
+        margin-bottom: 30px;
+    }
+    .testimonials {
+        padding: 50px 0;
+        margin-top: 45px;
+    }
+    .blog {
+        margin: 45px 0;
+    }
+    .blog .wraper {
+        row-gap: 30px;
+        justify-content: center;
+    }
+    .map iframe {
+        height: 350px;
+    }
+    .discoun {
+        padding: 35px 0;
+    }
+    .discoun .wraper .box h4 {
+        font-size: 18px;
+        line-height: 1.3;
+    }
+    .discoun .wraper .box a {
+        font-size: 16px;
+    }
+    .footer {
+        padding: 45px 0;
+    }
+    .footer .wraper {
+        row-gap: 25px;
+    }
+    .footer .row .fotr_cont h2 {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .footer .row .fotr_cont .btn {
+        justify-content: center;
+    }
+/* =========================991px end======================= */    
+}
+
+/* =========================767px start======================= */
+@media only screen and (max-width: 767px) {
+    .titel h2 {
+        font-size: 32px !important;
+        line-height: 1.2 !important;
+    }
+    .header .navbar .navbar-brand {
+        max-width: 170px;
+    }
+    .baner .baner_img1, .baner .baner_img2, .baner .baner_img3, .baner .baner_img4, .baner .baner_img5 {
+        padding-top: 120px;
+        padding-bottom: 40px;
+    }
+    .baner .baner_cont {
+        text-align: center;
+    }
+    .baner .baner_cont h2 {
+        font-size: 45px;
+    }
+    .baner .baner_cont h3 {
+        font-size: 22px;
+    }
+    .detali .row .wraper {
+        flex-direction: column;
+        text-align: center;     
+    }
+    .detali .row .wraper .icon {
+        font-size: 40px;
+        padding-right: 0;
+        margin: 0 auto;
+    }
+    .detali .row .wraper .icon_dtil h4::after {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .booking .bokng_cont .row .input_box {
+        margin-bottom: 20px;
+    }
+    .service .titel {
+        margin-bottom: 30px;
+    }
+    .service .row .item .icon_png {
+        width: 50px;
+        height: 50px;
+    }
+    .video {
+        padding: 70px 0;
+    }
+    .video .video_cont h2 {
+        font-size: 32px;
+        line-height: 1.2;
+    }
+    .price_tab .price_titel h2 {
+        font-size: 32px;
+        line-height: 1.2;
+    }
+    .price_tab .price_titel p {
+        line-height: 1.4;
+    }
+    .price_tab .wraper {
+        row-gap: 25px;
+    }
+    .price_tab .wraper .box {
+        width: 100%;
+        text-align: center;
+    }
+    .wraper .box p {
+        line-height: 1.4;
+        margin-bottom: 15px;
+    }
+    .testimonials h2 {
+        font-size: 32px;
+        line-height: 1.2;
+        margin-bottom: 30px;
+    }
+    .testimonials .testimonials_slider .slider_cont .img {
+        margin-bottom: 20px;
+    }
+    .testimonials .testimonials_slider .slider_cont .img img {
+        width: 80px;
+        height: 80px;
+    }
+    .testimonials .testimonials_slider .slider_cont h4 {
+        margin-top: 15px;
+    }
+    .blog .titel {
+        padding-bottom: 30px;
+    }
+    .discoun .wraper {
+        justify-content: center;
+        row-gap: 20px;
+    }
+    .discoun .wraper .box h4 {
+        text-align: center;
+    }
+    .discoun .wraper .box span {
+        font-size: 15px;
+    }
+/* =========================767px end======================= */    
+}
+
+/* =========================575px start======================= */
+@media only screen and (max-width: 575px) {
+    .price_tab .tab {
+        margin-bottom: 15px;
+    }
+/* =========================575px end======================= */    
+}
+
+/* =========================480px start======================= */
+@media only screen and (max-width: 480px) {
+    .titel h2 {
+        font-size: 26px !important;
+    }
+    .header .navbar .navbar-brand {
+        max-width: 140px;
+    }
+    .navbar-toggler {
+        font-size: 16px;
+    }
+    .baner .baner_cont h3 {
+        font-size: 18px;
+    }
+    .baner .baner_cont h2 {
+        margin-bottom: 10px;
+    }
+    .baner .baner_cont h5 {
+        font-size: 15px;
+    }
+    .baner .baner_img1, .baner .baner_img2, .baner .baner_img3, .baner .baner_img4, .baner .baner_img5 {
+        padding-top: 90px;
+    }
+    .baner .prev-arrow, .baner .next-arrow {
+        width: 35px;
+        height: 35px;
+    }
+    .baner .prev-arrow {
+        left: 10px;
+    }
+    .baner .next-arrow {
+        right: 10px;
+    }
+    .booking .titel h4 {
+        font-size: 15px;
+    }
+    .booking .bokng_cont {
+        padding: 30px 15px;
+    }
+    .service .wraper {
+        row-gap: 25px;
+    }
+    .product .titel {
+        padding-bottom: 70px;
+    }
+    .product .slider .prev-arrow, .product .slider .next-arrow {
+        top: -55px;
+    }
+    .product .slider .next-arrow {
+        right: 8px;
+    }
+    .video {
+        padding: 50px 0;
+    }
+    .video .video_cont h2 {
+        font-size: 26px;
+    }
+    .video .video_cont a {
+        padding: 16px 19px;
+    }
+    .price_tab .price_titel h2 {
+        font-size: 26px;
+    }
+    .tab button {
+        font-size: 15px;
+    }
+    .testimonials h2 {
+        font-size: 26px;
+        margin-bottom: 25px;
+    }
+    .blog .wraper {
+        row-gap: 20px;
+    }
+    .blog .wraper .blog_cont .blog_img .sosal ul li p {
+        font-size: 14px;
+    }
+    .blog .wraper .blog_cont .blog_img .sosal ul li:last-child i {
+        padding: 12px 16px;
+        font-size: 18px;
+    }
+    .blog .wraper .blog_cont .blog_detl h4 {
+        margin: 15px 0;
+    }
+    .map iframe {
+        height: 200px;
+    }
+    .footer .row .fotr_cont .ftr_logo {
+        max-width: 170px;
+        margin: 0 auto;
+    }
+    .footer .row .fotr_cont .ftr_text {
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .footer .row .fotr_cont .addres {
+        text-align: center;
+    }
+/* =========================480px end======================= */    
+}
+
+/* =========================320px start======================= */
+@media only screen and (max-width: 320px) {
+
+/* =========================320px end======================= */    
+}
